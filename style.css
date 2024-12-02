@@ -15,14 +15,6 @@ header h1 {
 header p {
     margin: 5px;
 }
-header a {
-    color: blue;
-}
 main {
     margin: 20px;
-}
-main h2 {
-    color: darkred;
-    border-bottom: 2px solid darkred;
-    padding-bottom: 5px;
 }
