@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+    background-color: #f9f9f9;
+}
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+header h1 {
+    margin: 10px;
+}
+header p {
+    margin: 5px;
+}
+header a {
+    color: blue;
+}
+main {
+    margin: 20px;
+}
+main h2 {
+    color: darkred;
+    border-bottom: 2px solid darkred;
+    padding-bottom: 5px;
+}
