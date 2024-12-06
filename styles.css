@@ -10,12 +10,9 @@ body {
 header {
     text-align: center;
     margin-bottom: 30px;
-    max-width: 150px;    
 }
-header image {
+header img {
     max-width: 150px;
-
-
 }
 header h1 {
     margin: 10px;
