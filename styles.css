@@ -1,3 +1,4 @@
+/* General Styling */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -5,9 +6,14 @@ body {
     color: #333;
     background-color: #f9f9f9;
 }
+/* Header */
 header {
     text-align: center;
     margin-bottom: 30px;
+}
+header img {
+    width: 150px;
+
 }
 header h1 {
     margin: 10px;
@@ -15,6 +21,33 @@ header h1 {
 header p {
     margin: 5px;
 }
+header a {
+    color: blue;
+
+}
+/* Content */
 main {
     margin: 20px;
 }
+main h2 {
+    color: darkred;
+    border-bottom: 2px solid darkred;
+    padding-bottom: 5px;
+}
+/* Links */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+ul li {
+    margin-bottom: 5px;
+}
+ul li a {
+    color: blue;
+    text-decoration: none;
+}
+ul li a:hover {
+    text-decoration: underline;
+}
+
